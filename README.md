@@ -1,1 +1,1 @@
-# rsschool-cv
+https://prizrak-pro.github.io/rsschool-cv/cv
