@@ -12,3 +12,23 @@ My favorite direction in programming is the creation of computer games.
 
 ### Profiles
 [![](images/logo-github.png)](https://github.com/prizrak-pro)
+
+### Skills
+ - Technologies: AJAX, Websocket
+ - Methodologies: MVC, OOP, REST, Design patterns
+ - Languages: C#, Python, PHP, JS
+ - Frameworks: Bootstrap 4
+ - Game Engine: Unity, Phaser
+ - JS Lib: jQuery, jQueryUI
+ - VCS: Git
+ - Servers: Apache
+ - Data Base: MySQL, Redis
+ - Tools: Linux, Windows, VSCode, phpStorm, Redmine, GitLab, 
+ Photoshop, Gimp, etc.
+
+### Education
+ - Self-teaching
+
+### English 
+ - Speaking: A0
+ - Writing: A0
