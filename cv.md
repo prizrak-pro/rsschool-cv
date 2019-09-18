@@ -3,7 +3,7 @@
 
 ### Contact Info
  - Email: [prizrak@anonymous.com](mailto:prizrak@anonymous.com)
- - Phone: [+7xxxxxx4221](tel:++1xxxxxxxx01)
+ - Phone: [+7xxxxxxxx01](tel:++1xxxxxxxx01)
  - Telegram: [@anonymous](https://t.me/anonymous)
 
 ### Summary
